@@ -41,6 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Running the Application
 1. **Run the application:**
+    ```bash
     flutter pub get
     flutter run
 
